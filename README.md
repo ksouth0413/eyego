@@ -2,27 +2,14 @@
 
 >>Explatnation
 
-This is sponsored by 연세대학교 ihei 워크스테이션, team '2020_산공의 농작물'.
+This is sponsored by 연세대학교 RC교육원xNexon team '빛을 놓지 않는 사람들'
 
-For this project, we make machine which locates above the elvator button that can clean and kill virus/bacteria.
-Especially, it prevent people from contacting corona-virus19.
+For this project, we design website with html, JS, and python.
 
+Although 20 thousand people use naver cafe name '빛을 놓지 않는 사람들', it has many drawbacks like uncomofortable design and lack of searching function.
 
+So, we use html, and JS to make website more comfortable by making bigger font, simple interface and black background.
 
+Also, we want to develop searching engine by using python crawling selenium. However, it is not effective than searching function of that.
 
->>Materials
-
-It is consist of Arudino Uno3, DC Motor, Infrared motion sensor, nomal LED(instaed of real ultra violet LED), etc.
-
-
-
-
->>Functions
-
-1. If machine recognizes your hand.
--The cotton which is covered with copper film is rolled down.
--You can touch elvator botton covered with cotton insteand of touching botton with corona virus19.
-2. If machine doesn't recognize your hand.
--The cotton which is covered with copper film is rolled up.
--LED light turns on to clean cotton.
- 
+Earnings of using python is we can use the previous website content.
